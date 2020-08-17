@@ -1,3 +1,6 @@
+Map Demo App.
+An API that manages vehicles and displays them on a map based on their coordinates.
+
 # Instructions:
 
 ## Installing dependencies
